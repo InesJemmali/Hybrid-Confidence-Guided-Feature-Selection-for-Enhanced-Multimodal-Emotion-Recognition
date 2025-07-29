@@ -8,7 +8,7 @@
   # AV-CARE: Hybrid Confidence-Guided Feature Selection for Multimodal Emotion Recognition
 
   <p align="center">
-    Official implementation of the paper:
+    Official implementation of the paper that has been submitted for publication
     <br />
     <strong>"Hybrid Confidence-Guided Feature Selection for Enhanced Multimodal Emotion Recognition"</strong>
     <br />
