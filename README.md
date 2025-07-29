@@ -127,7 +127,7 @@ These confidence scores are fused and applied before temporal modeling, enabling
 
 ---
 
-## Architecture of the Model : AV-CARE
+## Architecture of the Model: AV-CARE
 
 <p align="center">
   <img src="figures/model.png" width="800" alt="Architecture of CAFES" />
